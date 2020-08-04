@@ -1,0 +1,50 @@
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\ContactBook.deps.json
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\ContactBook.runtimeconfig.json
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\ContactBook.runtimeconfig.dev.json
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\ContactBook.dll
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\ContactBook.pdb
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.csprojAssemblyReference.cache
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.RazorAssemblyInfo.cache
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.RazorAssemblyInfo.cs
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.AssemblyInfoInputs.cache
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.AssemblyInfo.cs
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.RazorTargetAssemblyInfo.cache
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.dll
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.pdb
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\ContactBook.Views.dll
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\ContactBook.Views.pdb
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.TagHelpers.input.cache
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.TagHelpers.output.cache
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.RazorCoreGenerate.cache
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.RazorTargetAssemblyInfo.cs
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.Views.pdb
+C:\Users\Dick Hyman\source\repos\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.csproj.CopyComplete
+C:\Project\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Project\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Project\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Project\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\ContactBook.deps.json
+C:\Project\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\ContactBook.runtimeconfig.json
+C:\Project\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\ContactBook.runtimeconfig.dev.json
+C:\Project\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\ContactBook.dll
+C:\Project\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\ContactBook.pdb
+C:\Project\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\ContactBook.Views.dll
+C:\Project\ContactBook\ContactBook\bin\Debug\netcoreapp2.1\ContactBook.Views.pdb
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.csprojAssemblyReference.cache
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.AssemblyInfoInputs.cache
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.AssemblyInfo.cs
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.csproj.CoreCompileInputs.cache
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.RazorAssemblyInfo.cache
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.RazorAssemblyInfo.cs
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.TagHelpers.input.cache
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.TagHelpers.output.cache
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.RazorCoreGenerate.cache
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.RazorTargetAssemblyInfo.cache
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.RazorTargetAssemblyInfo.cs
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.Views.pdb
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.dll
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.pdb
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.genruntimeconfig.cache
+C:\Project\ContactBook\ContactBook\obj\Debug\netcoreapp2.1\ContactBook.csproj.CopyComplete
