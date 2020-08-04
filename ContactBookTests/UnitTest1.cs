@@ -7,59 +7,40 @@ using ContactBook.Models;
 using ContactBook.Data;
 using System.Data.Common;
 using Microsoft.EntityFrameworkCore;
+using System.Linq;
 
 namespace ContactBook.Tests
 {
-    public class ItemsControllerTest { 
-
-    protected ItemsControllerTest(DbContextOptions<CustomerContext> context)
-    {
-        ContextOptions = context;
-
-        Seed();
-    }
-
-    protected DbContextOptions<CustomerContext> ContextOptions { get; }
-
-    private void Seed()
-    {
-        using (var context = new CustomerContext(ContextOptions))
-        {
-            context.Database.EnsureDeleted();
-            context.Database.EnsureCreated();
-
-            context.Customers.Add(new Customer 
-                { FullName= "Stev", Email = "stevia", Phone= "51215" }
-            );
-
-            context.SaveChanges();
-        }
-    }
-    }
-
     [TestClass]
-    public class TestSimpleCustomerController : ItemsControllerTest
+    public class TestSimpleCustomerController
     {
-        public TestSimpleCustomerController()
-        : base(
-            new DbContextOptionsBuilder<CustomerContext>()
-                .UseSqlite("Filename=Test.db")
-                .Options)
+        string dbName = Guid.NewGuid().ToString();
+        DbContextOptions<CustomerContext> options = new DbContextOptionsBuilder<CustomerContext>()
+                .UseInMemoryDatabase(databaseName: Guid.NewGuid().ToString())
+                .Options;
+
+        private CustomerContext GetDatabaseContext()
         {
+            
+            var databaseContext = new CustomerContext(options);
+            databaseContext.Database.EnsureCreated();
+            return databaseContext;
         }
 
         [TestMethod]
         public void GetAllCustomers_ShouldReturnAllCustomers()
         {
-            using (var context = new CustomerContext(ContextOptions))
+            using (CustomerContext dbContext = new CustomerContext(options))
             {
-                var controller = new CustomersController(context);
+                DbInitializer.Initialize(dbContext);
+                var controller = new CustomersController(dbContext);
 
-                var result = controller.Get() as List<Customer>;
-                
-                Assert.AreEqual(1, result.Count);
+                var result = controller.Get().ToList();
+
+                Assert.AreEqual(2, result.Count);
             }
         }
+            
 
         [TestMethod]
         public void ThisIsAUnitTest()

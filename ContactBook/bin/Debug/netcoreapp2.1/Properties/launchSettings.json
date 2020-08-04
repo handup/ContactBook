@@ -20,7 +20,7 @@
     "ContactBook": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/customer",
+      "launchUrl": "customers",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
